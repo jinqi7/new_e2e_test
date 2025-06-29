@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/ubi:9.5-1744101466
+FROM registry.access.redhat.com/ubi9/ubi:9.6-1750786174
 
 LABEL description="test description"
 LABEL io.k8s.description="test io.k8s.description"
